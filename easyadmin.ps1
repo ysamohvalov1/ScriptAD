@@ -1,5 +1,5 @@
 ﻿#Easy admin
- clear
+clear
 function new_aduser(){
     
     #Создание пользователя АД
